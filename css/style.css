@@ -1,0 +1,81 @@
+
+
+body {
+	background-color: rgb(78, 78, 78);
+
+}
+
+.main {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+
+	background-color: rgb(78, 78, 78);
+}
+
+
+
+
+
+
+p {
+	font-size: 20px;
+	text-align: center;
+	width: 140px;
+}
+
+.name {
+	height: 30px;
+	line-height: 30px;
+	margin-bottom: 0;
+	background-color: rgb(27, 58, 72);
+	border: solid 3px white;
+}
+
+#boxA, #boxB {
+	margin-top: 0;
+	padding-top: 5px;
+	border: solid 3px white;
+	border-top: none;
+	height: 130px;
+}
+
+#boxC {
+	color: gold;
+	height: 50px;
+}
+
+.poker_box {
+	display: flex;
+	justify-content: center;
+}
+.poker_box_center {
+	width: 10px;
+	height: auto;
+}
+
+.poker_box_text {
+	width: 200px;
+}
+
+
+.poker_back {
+	width: 80px;
+	height: auto;
+}
+
+img {
+	width: 80px;
+	height: auto;
+}
+
+.gold_text {
+	color: gold;
+}
+
+.selected_language {
+    display: flex;
+    justify-content: end;
+
+}

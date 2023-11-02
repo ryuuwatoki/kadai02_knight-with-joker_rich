@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>騎士 & Joker Game</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+    <div class="selected_language">
+        <select onchange="location.href=this.options[this.selectedIndex].value">
+            <option value="">言語</option>
+            <option value="poker_game_jp.html">日本語</option>
+            <option value="poker_game_cn.html">中文</option>
+        </select>
+    </div>
+
+
+
+
+
+    <div class="main">
+
+
+    <p class="name">COM</p>
+    <p id="boxB"><img id="comImg"></p>
+
+    <div class="poker_box">
+        <a href="#">
+            <img id="get1" class="poker_back" src="img/poker_back.png" alt="">
+        </a>
+            <p class="poker_box_center"></p>
+        <p class="poker_box_text" id="boxC">  ⇦抽牌！！ </p>
+    </div>
+
+    <p class="name">Player</p>
+    <p id="boxA"><img id="myImg"></p>
+
+    <h1></h1>
+    <h1></h1>
+
+
+</div>
+
+    
+
+
+
+
+    <script src="js_cn/main.game.js"></script>
+</body>
+</html>
