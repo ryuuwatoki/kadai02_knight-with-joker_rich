@@ -30,6 +30,6 @@ CSSに不慣れな部分が見つかり、
 
 ## 参考にした web サイトなど
 
-- WAOLet'sCode JavaScript 特別編 ~ジャンケンゲーム~ 解説動画
+- WAOLet'sCode JavaScript 特別編 ジャンケンゲーム 解説動画
 https://www.youtube.com/watch?v=9nTQX-VsGt0
 
