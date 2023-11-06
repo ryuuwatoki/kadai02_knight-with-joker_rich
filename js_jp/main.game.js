@@ -71,7 +71,7 @@ do {
         winSound.play()
     }
     if(random === 3 && random2 === 2){
-        boxC.innerHTML = 'YOU LOSE!';
+        boxC.innerHTML = 'YOU LOSE!(反轉)';
         reverseWinSound.play()
 
     }
